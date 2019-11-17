@@ -1,0 +1,9 @@
+endpoints {
+  action-endpoints {
+    
+    action-endpoint (http_call) {
+      accepted-inputs (mealvoca)
+      local-endpoint (http_call.js)
+    }
+  }
+}

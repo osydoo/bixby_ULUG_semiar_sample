@@ -1,0 +1,5 @@
+train (t-s5abxacu03sd9796s632i50hm) {
+  utterance ([g:http_call] 학식 뭐 나와)
+  plan (Y2BikM4vrkzJz9dLyc9LLwfSHonZxZnZQanFpTklDBJokhklJQXxyYk5OQyMQMgAxUASAA==)
+  last-modified (1573892961858)
+}

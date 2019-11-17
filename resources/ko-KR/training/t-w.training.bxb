@@ -1,0 +1,5 @@
+train (t-we7oh8e8mcygsjjxppc3apt1r) {
+  utterance ([g:http_call] 학식)
+  plan (Y2BikM4vrkzJz9dLyc9LLwfSHonZxZnZQanFpTklDBJokhklJQXxyYk5OQyMQMgAxUASAA==)
+  last-modified (1573892449681)
+}
